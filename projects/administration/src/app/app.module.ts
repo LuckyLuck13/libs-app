@@ -11,8 +11,7 @@ import { HelloModule } from 'projects/tools/src/lib/hello.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    HelloModule.forRoot(),
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of tools
+ */
+export * from './lib/hello.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3Rvb2xzL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxxQkFBcUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdG9vbHNcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9oZWxsby5zZXJ2aWNlJztcbiJdfQ==
